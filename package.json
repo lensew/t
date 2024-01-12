@@ -1,0 +1,19 @@
+{
+  "name": "t-component",
+  "repo": "component/t",
+  "description": "tiny translation helper",
+  "version": "1.0.0",
+  "keywords": [],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/component/t.git"
+  }
+}
